@@ -1,4 +1,6 @@
-port sys
+import pygame
+import random
+import sys
 
 # Game settings
 GRID_SIZE = 6  # 6x6 grid for more numbers
